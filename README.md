@@ -42,5 +42,7 @@ This diagram indicates that 'cash out' transactions are the most frequent, while
 Based on the report, we can conclude that:
 
 For class 0 (Non fraud): The F1 score is 1.00.
+
 For class 1 (fraud): The F1 score is 0.69.
+
 Overall Model performance: The model is really good at identifying class 0 but needs to get better at recognizing class 1. The performance between the two classes might suggest the need for further tuning specific to class 1
